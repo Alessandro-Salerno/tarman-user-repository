@@ -14,5 +14,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - uses: actions/checkout@v4
     - name: Upload all files
-      run: sh ./upload.sh
+      run: sh ./.github/workflows/upload.sh
