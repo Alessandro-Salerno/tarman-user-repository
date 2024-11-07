@@ -1,5 +1,5 @@
 URL=https://github.com/neovim/neovim/releases/latest/download/nvim-macos-arm64.tar.gz
-EXECUTABLE=bin/nvim
+EXECUTABLE=nvim-macos-arm64/bin/nvim
 PACKAGE_FORMAT=tar.gz
 APPLICATION_NAME=Neovim
 ADD_TO_PATH=true
