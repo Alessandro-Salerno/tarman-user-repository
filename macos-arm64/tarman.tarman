@@ -1,0 +1,7 @@
+URL=https://github.com/Alessandro-Salerno/tarman/raw/refs/heads/latest-build/macos-arm64/tarman-macos.tar.gz
+EXECUTABLE_PATH=tarman/tarman
+PACKAGE_FORMAT=tar.gz
+APPLICATION_NAME=tarman
+ADD_TO_PATH=true
+ADD_TO_DESKTOP=false
+ADD_TO_TARMAN=false
