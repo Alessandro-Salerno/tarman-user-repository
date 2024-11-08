@@ -1,8 +1,0 @@
-URL=https://discord.com/api/download?platform=linux&format=tar.gz
-PACKAGE_FORMAT=tar.gz
-EXECUTABLE_PATH=Discord/Discord
-APPLICATION_NAME=Discord
-ICON_PATH=Discord/discord.png
-ADD_TO_PATH=false
-ADD_TO_DESKTOP=true
-ADD_TO_TARMAN=false
