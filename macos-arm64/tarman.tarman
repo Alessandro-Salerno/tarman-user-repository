@@ -1,4 +1,4 @@
-URL=https://github.com/Alessandro-Salerno/tarman/raw/refs/heads/latest-build/macos-arm64/tarman-macos.tar.gz
+URL=https://github.com/Alessandro-Salerno/tarman/raw/refs/heads/latest-build/macos-arm64/tarman-macos-arm64.tar.gz
 EXECUTABLE_PATH=tarman/tarman
 PACKAGE_FORMAT=tar.gz
 APPLICATION_NAME=tarman
