@@ -23,9 +23,16 @@ rm -rf tarman-user-repository
 git rm -rf linux-arm64/
 git rm -rf tarman-user-repository/
 
+mv macos-x86_64/ tarman-user-repository
+tar -czvf macos-x86_64.tar.gz tarman-user-repository/
+rm -rf tarman-user-repository
+git rm -rf macos-x86_64/
+git rm -rf tarman-user-repository/
+
 git add macos-arm64.tar.gz
 git add linux-x86_64.tar.gz
 git add linux-arm64.tar.gz
+git add macos-x86_64.tar.gz
 
 git commit -m "new bundle"
 git push --set-upstream origin latest-repos --force
