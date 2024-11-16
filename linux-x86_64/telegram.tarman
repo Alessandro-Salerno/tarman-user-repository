@@ -1,0 +1,7 @@
+URL=https://telegram.org/dl/desktop/linux
+PACKAGE_FORMAT=tar.gz
+EXECUTABLE_PATH=Telegram/Telegram
+APPLICATION_NAME=Telegram
+ADD_TO_PATH=false
+ADD_TO_DESKTOP=true
+ADD_TO_TARMAN=false
