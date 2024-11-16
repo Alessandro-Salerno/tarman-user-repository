@@ -1,6 +1,6 @@
 URL=https://github.com/Alessandro-Salerno/tarman/raw/refs/heads/latest-build/linux-x86_64/tarman-linux-x86_64.tar.gz
 EXECUTABLE_PATH=tarman/tarman
-PACKAGE_FORMAT=tar.gz
+PACKAGE_FORMAT=tar.xz
 APPLICATION_NAME=tarman
 ADD_TO_PATH=true
 ADD_TO_DESKTOP=false
