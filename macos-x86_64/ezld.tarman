@@ -1,4 +1,4 @@
-URL=https://github.com/Alessandro-Salerno/ezld/raw/refs/heads/latest-build/macos-x86_64/ezld-macos-arm64.tar.gz
+URL=https://github.com/Alessandro-Salerno/ezld/raw/refs/heads/latest-build/macos-x86_64/ezld-macos-x86_64.tar.gz
 EXECUTABLE_PATH=ezld/ezld
 PACKAGE_FORMAT=tar.gz
 APPLICATION_NAME=ezld
