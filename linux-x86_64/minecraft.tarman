@@ -1,4 +1,4 @@
-URL=https://discord.com/api/download?platform=linux&format=tar.gz
+URL=https://launcher.mojang.com/download/Minecraft.tar.gz
 PACKAGE_FORMAT=tar.gz
 EXECUTABLE_PATH=minecraft-launcher/minecraft-launcher
 APPLICATION_NAME=Minecraft
